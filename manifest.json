@@ -1,0 +1,21 @@
+{
+  "name": "Catatan Teknisi",
+  "short_name": "Teknisi",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+
+document.getElementById("ket").value = "";
+document.getElementById("harga").value = "";
+document.getElementById("nama").value = "";
+document.getElementById("tlp").value = "";
+document.getElementById("tipe").value = "";
